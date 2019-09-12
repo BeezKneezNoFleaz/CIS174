@@ -24,7 +24,7 @@ namespace ClassAzureTest
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            //comment
             app.UseWelcomePage();
         }
     }
